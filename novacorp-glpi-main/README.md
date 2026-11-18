@@ -127,6 +127,6 @@ Virtualisation (VMware Workstation), segmentation réseau (NAT / Host-Only, IP f
 
 ## Équipe
 
-- DJOUEGOUO ESSOME Ivonne Ange
-- MOREAU Armel
-- BAKARI GANDO Mouami Amoi
+- YOKANI-SITA BERDINA
+- SOW OULEYE
+  
